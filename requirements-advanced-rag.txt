@@ -1,0 +1,10 @@
+langchain>=0.3.0
+langchain-community
+langchain-openai
+langchain-chroma
+llama-index
+ragas
+chromadb
+sentence-transformers
+rank-bm25
+nltk
