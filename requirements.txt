@@ -7,9 +7,12 @@ ragas
 fastapi
 uvicorn
 streamlit
+requests
 python-dotenv
 pydantic
 chromadb
 sentence-transformers
 rank-bm25
 nltk
+pytest
+httpx
