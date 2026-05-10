@@ -1,0 +1,15 @@
+langchain>=0.3.0
+langchain-community
+langchain-openai
+langchain-chroma
+llama-index
+ragas
+fastapi
+uvicorn
+streamlit
+python-dotenv
+pydantic
+chromadb
+sentence-transformers
+rank-bm25
+nltk
