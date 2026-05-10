@@ -1,0 +1,7 @@
+The production-ready RAG system is designed to demonstrate enterprise AI engineering patterns.
+
+The system includes FastAPI backend services, a Streamlit frontend, Docker deployment, structured logging, retrieval pipelines, and safety guardrails.
+
+The architecture is intentionally modular so that vector databases, cloud LLM providers, and evaluation frameworks can be integrated later.
+
+Future production upgrades include Azure OpenAI integration, ChromaDB retrieval, RAGAS evaluation, authentication, tracing, and Kubernetes deployment.
